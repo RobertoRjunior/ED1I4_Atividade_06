@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade_06\\Atividade_06.csproj",
         "projectName": "Atividade_06",
         "projectPath": "D:\\IFSP\\ED2I4\\Atividade_06\\Atividade_06.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\roberto\\.nuget\\packages\\",
         "outputPath": "D:\\IFSP\\ED2I4\\Atividade_06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
