@@ -8,7 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\josue\\.nuget\\packages\\": {}
+    "C:\\Users\\roberto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "D:\\IFSP\\ED2I4\\Atividade21-11-03\\Atividade21-11-03.csproj",
       "projectName": "Atividade21-11-03",
       "projectPath": "D:\\IFSP\\ED2I4\\Atividade21-11-03\\Atividade21-11-03.csproj",
-      "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\roberto\\.nuget\\packages\\",
       "outputPath": "D:\\IFSP\\ED2I4\\Atividade21-11-03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
