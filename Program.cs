@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Atividade21_11_03
+namespace Atividade_06
 {
     class Program
     {
